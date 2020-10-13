@@ -1,1 +1,2 @@
-# new-projects
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
